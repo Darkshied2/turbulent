@@ -79,6 +79,14 @@ $ npm start
 
   View the website at: http://localhost:5000
   
+  ### Running Tests
+
+To run the test suite, first install the dependencies, then run `npm test`:
+
+```console
+$ npm install
+$ npm test
+```
   
   ## Sharing 💗
 
@@ -95,13 +103,6 @@ You can find my all contact links [here](#).
 
 
 
-### Running Tests
 
-To run the test suite, first install the dependencies, then run `npm test`:
-
-```console
-$ npm install
-$ npm test
-```
 
 
